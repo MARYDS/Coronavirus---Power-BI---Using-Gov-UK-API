@@ -7,4 +7,4 @@ Folder Power BI has an example of retrieving and presenting the data using Power
 Example output is in the .pdf file.
 
 Folder Python has a Juypter Notebook example of retrieving the data and displaying some simple plots.
-Example output is in the .html file.
+Example output is in the .pdf file.
