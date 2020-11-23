@@ -6,6 +6,7 @@ See details at https://coronavirus.data.gov.uk/developers-guide.
 
 Folder Power BI has an example of retrieving and presenting the data using Power BI desktop.
 Example output is in the .pdf file.
+A live copy of the report can be accessed at https://app.powerbi.com/view?r=eyJrIjoiN2RjMjM3ZGYtZTY0Yy00MDllLTg5NjUtNjc3NmU5OWNkYmFlIiwidCI6Ijg5YTkwYTExLTA2MzUtNDJhMi05MDg0LTcyOGE5NDY1ZGExNCJ9
 
 Weekly MSOA cases data .csv file from https://coronavirus.data.gov.uk/about-data.
 
